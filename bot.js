@@ -37,7 +37,7 @@ const orderInstructionsMessage = `📝 لطلب منتج جديد، يرجى ا�
 للرجوع للقائمة الرئيسية، اكتب "قائمة" أو "menu"`;
 
 // Size guide path
-const sizeGuidePath = 'C:\\Users\\Fares-Ibrahim\\Desktop\\LNA AZEEM WHATSAPP BOT\\image.png';
+const sizeGuidePath = path.join(__dirname, 'image.png');
 
 // Start the bot
 venom
