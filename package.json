@@ -1,0 +1,17 @@
+{
+  "name": "lna-azeem-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp bot for LNA Azeem",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "venom-bot": "^4.3.7",
+    "nodemon": "^3.0.1"
+  }
+}
